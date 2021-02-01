@@ -15,11 +15,11 @@ Expect:
 ## *Setup Instructions:*
 
 1. Copy https://github.com/andyL89/environment-template.
-2. Run '$ git clone https://github.com/andyL89/environment-template' in the terminal to add directory to your computer.
+2. Run `$ git clone https://github.com/andyL89/environment-template` in the terminal to add directory to your computer.
 3. Navigate to the top level of the directory.
-4. Install packages locally by running '$ npm install' in the terminal.
-5. Create production environment by running '$ npm run build' in the terminal.
-5. View project in browser by running '$ npm run start'.
+4. Install packages locally by running `$ npm install` in the terminal.
+5. Create production environment by running `$ npm run build` in the terminal.
+5. View project in browser by running `$ npm run start`.
 
 ## *Tecnologies Used:*
 * bootstrap 4.6.0
